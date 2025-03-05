@@ -3952,7 +3952,6 @@ input, select, textarea {
 		}
 
 .thumbnail {
-  background-color: transparent !important;
   opacity: 1 !important;
   transition: none !important;
 }
