@@ -3963,3 +3963,7 @@ input, select, textarea {
   object-fit: cover;
   background-color: transparent !important; 
 }
+
+.thumbnail, .thumbnail * {
+  background-color: transparent !important;
+}
