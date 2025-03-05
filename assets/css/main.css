@@ -3970,3 +3970,11 @@ span.image img {
     filter: none !important;
     transition: none !important;
 }
+
+.tiles article:before {
+    opacity: 0 !important;
+}
+
+.tiles article:after {
+    background-color: transparent !important;
+}
