@@ -3951,19 +3951,16 @@ input, select, textarea {
 			visibility: visible;
 		}
 
-.thumbnail {
+span.image {
   background-color: transparent !important;
   opacity: 1 !important;
   transition: none !important;
 }
 
-.thumbnail img {
+span.image img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  background-color: transparent !important; 
-}
-
-.thumbnail, .thumbnail * {
-  background-color: transparent !important;
+  opacity: 1 !important;
+  transition: none !important;
 }
