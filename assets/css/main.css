@@ -3952,6 +3952,7 @@ input, select, textarea {
 		}
 
 .thumbnail {
+  background-color: transparent !important;
   opacity: 1 !important;
   transition: none !important;
 }
@@ -3960,4 +3961,5 @@ input, select, textarea {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  background-color: transparent !important;  /* 추가된 부분 */
 }
