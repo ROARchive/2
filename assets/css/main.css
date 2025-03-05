@@ -3964,3 +3964,9 @@ span.image img {
   opacity: 1 !important;
   transition: none !important;
 }
+
+.tiles article .image {
+    opacity: 1 !important;
+    filter: none !important;
+    transition: none !important;
+}
